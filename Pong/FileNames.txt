@@ -1,0 +1,4 @@
+Factor -> Mainfile
+Draw -> Drawing and Printing functions
+Coll -> Collision functions 
+Init -> Functions run at the begining to initialize
