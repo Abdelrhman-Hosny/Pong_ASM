@@ -34,7 +34,7 @@ Clicking on start game will first ask you to enter the name of the 2 players.
 
 after entering the names , you're asked to choose a game mode.
 
-![](.\ScreenShots\ModeMenu.png)
+![](./ScreenShots/ModeMenu.png)
 
 ------
 
@@ -48,7 +48,7 @@ This is the one that has the screenshot from above where the two players play no
 
 Obstacle mode has a third paddle floating in the middle and constantly moving up and down as the game moves on.
 
-![](.\ScreenShots\ObstacleMode.png)
+![](./ScreenShots/ObstacleMode.png)
 
 ------
 
@@ -56,7 +56,7 @@ Obstacle mode has a third paddle floating in the middle and constantly moving up
 
 This mode has two portals , if the ball goes into the red portals , it comes out from the blue portal with a different angle and vice verse.
 
-![](.\ScreenShots\PortalMode.png)
+![](./ScreenShots/PortalMode.png)
 
 ------
 
@@ -64,7 +64,7 @@ This mode has two portals , if the ball goes into the red portals , it comes out
 
 You can also determine the speed of the ball throughout the game.
 
-![](.\ScreenShots\SpeedMenu.png)
+![](./ScreenShots/SpeedMenu.png)
 
 ------
 
