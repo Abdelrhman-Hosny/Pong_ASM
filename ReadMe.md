@@ -30,7 +30,7 @@ Here you only control the player on the left side using the up and down arrows w
 
 Clicking on start game will first ask you to enter the name of the 2 players.
 
-![](.\ScreenShots\FirstPlayerName.png)
+![](./ScreenShots/FirstPlayerName.png)
 
 after entering the names , you're asked to choose a game mode.
 
