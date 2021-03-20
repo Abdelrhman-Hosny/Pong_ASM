@@ -12,7 +12,7 @@ The project was made by 5 people who all contributed in the coding and thinking 
 
 When you start the game , you'll see the main menu from which you can choose one of several modes.
 
-![](.\ScreenShots\MainMenu.png)
+![](./ScreenShots/MainMenu.png)
 
 ------
 
